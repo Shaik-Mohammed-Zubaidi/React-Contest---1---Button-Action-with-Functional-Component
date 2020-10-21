@@ -14,10 +14,7 @@ function App() {
         Output
       </button>
       {vis ? (
-        <p id="para">
-          "Hello, I've learnt to use the full-stack evaluation tool. This makes
-          me so happy"
-        </p>
+        <p id="para">Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>
       ) : null}
     </div>
   );
